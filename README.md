@@ -9,7 +9,9 @@ I'm Aqila Musyaffa, a Business Administration graduate with a passion for solvin
 Here are a few things about me:
 
 📊 Aspiring Data Analyst with a business background
+
 📈 Interested in Business Intelligence, Data Analytics, and Process Improvement
+
 🌱 Currently learning SQL, Python, Power BI, ETL, Data Warehousing, and Machine Learning
 
 Most of my repositories are learning projects and portfolio work as I continue growing in data analytics. Feel free to explore my repositories and connect with me.
