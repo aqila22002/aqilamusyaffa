@@ -2,7 +2,7 @@ Hi there! 👋
 
 Welcome to my GitHub profile.
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="320"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
 
 I'm Aqila Musyaffa, a Business Administration graduate with a passion for solving business problems through data.
 
